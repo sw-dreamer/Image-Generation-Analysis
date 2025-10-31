@@ -1,5 +1,5 @@
 
-# **Llama + Stable Diffusion + BLIP2 기반 AI 이미지 생성 및 분석 웹 서비스**
+# **AI 이미지 생성 및 분석 웹 서비스**
 
 이 프로젝트는 **텍스트 입력(한국어/영어)** 을 기반으로:
 - 한국어 → Llama 번역 → 영어 프롬프트 → Stable Diffusion → 이미지 생성  
